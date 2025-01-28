@@ -13,6 +13,7 @@
 ###### FROM order_details JOIN pizza 
 ###### ON pizza.pizza_id = order_details.pizza_id;
 #### output:
+![Image](https://github.com/user-attachments/assets/ecb1eb7d-e418-437e-a0dd-f2ec67edcb30)
 
 #### q3.Identify the highest-priced pizza.
 ###### SELECT pizza_type.pizza_name, pizza.price
